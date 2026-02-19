@@ -20,7 +20,7 @@
 		<Nullable>enable</Nullable>
 		<RootNamespace>Get.UI.Data</RootNamespace>
 		<AssemblyName>Get.UI.Data.UWP</AssemblyName>
-		<Version>1.0.2</Version>
+		<Version>1.0.8</Version>
 		<PackageOutputPath>D:\Programming\VS\.LocalNugetPackages</PackageOutputPath>
 		<WebView2NeverCopyLoaderDllToOutputDirectory>true</WebView2NeverCopyLoaderDllToOutputDirectory>
 	</PropertyGroup>

@@ -49,7 +49,7 @@ public static partial class QuickCreate
     {
         public VStack(double spacing = 0)
         {
-            Orientation = Orientation.Horizontal;
+            Orientation = Orientation.Vertical;
             Spacing = spacing;
         }
         [MethodImpl(MethodImplOptions.AggressiveInlining)]

@@ -10,7 +10,7 @@
 		<Nullable>enable</Nullable>
 		<RootNamespace>Get.UI.Data</RootNamespace>
 		<AssemblyName>Get.UI.Data.UWP.NET9</AssemblyName>
-		<Version>1.0.7</Version>
+		<Version>1.0.8</Version>
 		<PackageOutputPath>D:\Programming\VS\.LocalNugetPackages</PackageOutputPath>
 		<DefineConstants>$(DefineConstants);UWPNET9</DefineConstants>
 	</PropertyGroup>
